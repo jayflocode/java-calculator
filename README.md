@@ -11,8 +11,8 @@ This Java project makes a use of MX Parser which is use to evaluate, and compute
 is useful since it is able to evaluate a full expression from a String, and represent the values as a String. In other words,
 this calculator does not make a usage of Integers, or Doubles. 
 
-This code is going to be improved in the next couple of weeks to add some extra functionalities, and perhaps will be seeing 
+The code is going to be improved in the next couple of weeks to add some extra functionalities, and perhaps will be seeing 
 the code imported into a mobile platform such as Android OS. 
 
-This code is licensed so written permission needs to be asked, and explicitly granted prior to using. Do not use this 
-code without my permision. 
+Be aware, this code is licensed so written permission needs to be asked and explicitly granted prior to using the code. Do not use this 
+code without my permision. Email me at jayson_flores@me.com for permission request or if you need guidance of any kind. 
