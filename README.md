@@ -7,8 +7,7 @@ in the MyFrame class. This code uses a Grid-Bag layout to assemble a simple and 
 An action button listener is implemented to record the values in strings, and store these values according
 to how the arithmetic is being inputed. 
 
-This Java project makes a use of MX Parser which is use to evaluate, and compute the String expressions. This Parser
-is useful since it is able to evaluate a full expression from a String, and represent the values as a String. In other words,
+If you examine the source files you fill find that this Java project makes a use of MX Parser which is used to evaluate, and compute the String expressions. This Parser is useful since it is able to evaluate a full expression from a Strings, and represent the values as a String. In other words,
 this calculator does not make a usage of Integers, or Doubles. 
 
 The code is going to be improved in the next couple of weeks to add some extra functionalities, and perhaps will be seeing 
