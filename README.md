@@ -14,4 +14,7 @@ The code is going to be improved in the next couple of weeks to add some extra f
 the code imported into a mobile platform such as Android OS. 
 
 Be aware, this code is licensed so written permission needs to be asked and explicitly granted prior to using the code. Do not use this 
-code without my permision. Email me at jayson_flores@me.com for permission request or if you need guidance of any kind. 
+code without my permision. Email me at jayson_flores@me.com for permission request or if you need guidance of any kind.
+
+Note: MXParser is needed to run this specific code. I have included the Jar file that needs to be added to your project file. 
+For more information about MxParser please visit https://www.google.com/search?client=safari&rls=en&q=mxparser&ie=UTF-8&oe=UTF-8. 
