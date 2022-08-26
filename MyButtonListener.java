@@ -11,6 +11,7 @@ import javax.swing.JFrame;
 import javax.swing.event.*;
 import org.mariuszgromada.math.mxparser.*;
 
+//Button listener created to store values as input is beging received. These values are updated to the public class MyFrame. 
 
  
 
@@ -41,6 +42,9 @@ class MyButtonListener extends JFrame implements ActionListener {
 	public void actionPerformed(ActionEvent e)  // action event used to read button input, and JTextFrame output
 
 	{
+	
+	// As input is being received, system output is being received to confirm accuracy. 
+		
 	   System.out.println("num 1:" + num1);
 	   System.out.println("num 2:" + num2);
 	   System.out.println("total:" + total);

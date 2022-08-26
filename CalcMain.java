@@ -3,6 +3,9 @@
  Any usage of the code without permission would be considered code theft and plagarism which will be 
  prosecuted to the furthest extent of the law.  All rights are reserved by Jayson Flores, code creator */
 
+
+// Java Main, it calls upon Construct Function which loads JFrame GUI
+
 package firstCalc;
 
 

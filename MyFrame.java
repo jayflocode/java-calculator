@@ -8,10 +8,14 @@ package firstCalc;
 
 import javax.swing.*;
 
+// My Frame class stores values for the JFRAME GUI, this class is used edit the graphical interface, and store values used by the action listener class
+
 
 import java.awt.*;
 
-//mx parser used for this project
+
+
+// MyFrame Extends the Jframe Class
 
 
 public class MyFrame extends JFrame{
