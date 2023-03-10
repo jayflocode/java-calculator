@@ -2,6 +2,8 @@
 
 Java Calculator Project
 
+Jar is provided for those that want to run the project in jar format. 
+
 This is a Java calculator project using a Jframe GUI. Details of the JFrame type can be seen
 in the MyFrame class. This code uses a Grid-Bag layout to assemble a simple and easy to use calculator.
 An action button listener is implemented to record the values in strings, and store these values according
